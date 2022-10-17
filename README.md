@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barakafrancis
-- 👀 I’m interested in kenya
+- 👀 I’m interested in being a developer
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any programing language
+- 💞️ I’m looking to collaborate on any programming language
 - 📫 How to reach me +254714590103
 
 <!---
